@@ -1,0 +1,7 @@
+pip freeze > requirements.txt
+streamlit
+pandas
+numpy
+plotly
+streamlit-option-menu
+openpyxl
